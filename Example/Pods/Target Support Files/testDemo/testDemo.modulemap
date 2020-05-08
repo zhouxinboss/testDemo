@@ -1,0 +1,6 @@
+framework module testDemo {
+  umbrella header "testDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
